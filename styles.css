@@ -11,18 +11,39 @@
   border: solid 3px red;
 } */
 
-<<<<<<< HEAD
 #div-4{
-  padding: 6%;
-  border: 3px; color: blueviolet;
-  background: 4px;
-  margin: 5%;
+  padding: -2%;
+  border: 7px;
+  color: rgb(255, 255, 255);
+  font-size: 1em;
+  margin: 2%;
+  background-color: blue;
+  border-block-end-color: black;
+  height: 71%;
 }
-=======
+
+#div-4 figcaption {
+  background-color:rgba(55,55,55,.5)
+}
+
+
+#div-4 img {
+  max-width:100%;
+}
+
+#div-4 ul {
+  background-color:rgba(55,55,55,.5)
+}
+
+
+#div-4 q {
+  background-color:rgba(55,55,55,.5)
+}
+
+
 #div-7 {
 background: silver;
 margin: auto;
 
 }
 
->>>>>>> 5fd580d39d747077844cdbc23254ad2f6998c02e
